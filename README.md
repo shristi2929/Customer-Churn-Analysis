@@ -70,5 +70,8 @@ Increasing customer interaction through personalized offers, financial advisory 
 Targeted Gender-Based Offers
 Conclusion
 As more female customers tend to leave, banks can introduce specialized financial products, flexible loan options, and benefits to improve loyalty.
+
+
+
 Conclusion
 The analysis provides crucial insights into customer behavior, allowing the bank to proactively reduce churn by improving engagement, enhancing services, and addressing the specific needs of different customer segments. By implementing data-driven strategies, the bank can enhance retention rates, increase profitability, and maintain a stable customer base. 🚀
